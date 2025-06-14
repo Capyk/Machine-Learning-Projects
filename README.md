@@ -18,3 +18,11 @@ https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-r
 ### Target Variable:
 * **Performance Index**: A measure of the overall performance of each student. The performance index represents the student's academic performance and has been rounded to the nearest integer. The index ranges from 10 to 100, with higher values indicating better performance.
 
+# Model Evaluation
+R2 Score:  98.90110607021137
+Mean Absolute Error:  1.6090437564045221
+Mean Squared Error:  4.066563824092681
+RMSE:  2.0165722957763457
+
+Equation of the multiple linear regression model is :
+2.85 × Hours Studied + 1.02 × Previous Scores + 0.61 × Extracurricular Activities + 0.48 × Sleep Hours + 0.19 × Sample Question Papers Practiced - 33.92
